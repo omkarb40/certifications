@@ -2,7 +2,6 @@
 
 > A curated repository of professional certifications spanning Data Science, Cloud Computing, and Analytics. Includes credentials from platforms like Coursera, Microsoft, and AWS, reflecting continuous learning in data engineering, machine learning, and big data technologies.
 
-![AWS](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-Certified-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Platform-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Certified-017CEE?style=flat&logo=apacheairflow&logoColor=white)
