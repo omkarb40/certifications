@@ -13,15 +13,16 @@
 
 | # | Certificate | Issuer | Category | Date |
 |---|-------------|--------|----------|------|
-| 1 | Databricks Fundamentals | Databricks | ☁️ Cloud & Data Platforms | Feb 2025 |
-| 2 | Data Platforms: Spark to Snowflake | LinkedIn Learning | 🛠️ Data Engineering | Jan 2026 |
-| 3 | Intro to Snowflake for Devs, Data Scientists & Data Engineers | Snowflake | 🛠️ Data Engineering | Jan 2026 |
-| 4 | Apache Airflow Essential Training | LinkedIn Learning | 🛠️ Data Engineering | Dec 2025 |
-| 5 | Introduction to Artificial Intelligence | LinkedIn Learning | 🤖 AI & Machine Learning | Oct 2025 |
-| 6 | What Is Generative AI | LinkedIn Learning | 🤖 AI & Machine Learning | Sep 2025 |
-| 7 | Generative AI: The Evolution of Thoughtful Online Search | LinkedIn Learning | 🤖 AI & Machine Learning | Sep 2025 |
-| 8 | Data Science Professional Certificate | Coursera | 📊 Data Science | Feb 2025 |
-| 9 | Data Science Internship | Entuple Technologies | 🏢 Industry | Dec 2022 |
+| 1 | Data Visualization Storytelling | LinkedIn Learning | ☁️ Cloud & Data Platforms | May 2026 |
+| 2 | Databricks Fundamentals | Databricks | ☁️ Cloud & Data Platforms | Feb 2025 |
+| 3 | Data Platforms: Spark to Snowflake | LinkedIn Learning | 🛠️ Data Engineering | Jan 2026 |
+| 4 | Intro to Snowflake for Devs, Data Scientists & Data Engineers | Snowflake | 🛠️ Data Engineering | Jan 2026 |
+| 5 | Apache Airflow Essential Training | LinkedIn Learning | 🛠️ Data Engineering | Dec 2025 |
+| 6 | Introduction to Artificial Intelligence | LinkedIn Learning | 🤖 AI & Machine Learning | Oct 2025 |
+| 7 | What Is Generative AI | LinkedIn Learning | 🤖 AI & Machine Learning | Sep 2025 |
+| 8 | Generative AI: The Evolution of Thoughtful Online Search | LinkedIn Learning | 🤖 AI & Machine Learning | Sep 2025 |
+| 9 | Data Science Professional Certificate | Coursera | 📊 Data Science | Feb 2025 |
+| 10 | Data Science Internship | Entuple Technologies | 🏢 Industry | Dec 2022 |
 
 ---
 
@@ -30,6 +31,7 @@
 ```
 certifications/
 ├── cloud-&-data-platforms/
+│   ├── 2026-05_Data_Visualization_Storytelling.pdf
 │   ├── 2025-02_Databricks_Fundamentals.pdf
 │   ├── 2026-01_Data_Platforms_Spark_to_Snowflake.pdf
 │   └── 2026-01_Intro_to_Snowflake.pdf
